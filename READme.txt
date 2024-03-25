@@ -1,0 +1,1 @@
+The csv files were moved to the bin folder inside of the project.
